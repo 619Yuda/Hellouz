@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" color="@color/colorPrimaryDark"> HELLOUZ</string>
+    <string name="title_home">Acceuil</string>
+    <string name="title_dashboard">Ajoutez</string>
+    <string name="title_notifications">Explorer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ce_weekend">Ce weekend</string>
+</resources>
